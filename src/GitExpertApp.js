@@ -3,11 +3,8 @@ import {AddCategory} from './components/AddCategory.js'
 import {GifGrid} from './components/GifGrid'
 const GitExpertApp = () => {
 
-
     const [categories, setCategories] = useState( ['Samurai x'])
-  
-    
-    
+ 
     return(
         <>
             <h2>GitExpertApp</h2>
