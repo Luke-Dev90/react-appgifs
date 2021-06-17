@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-app-p.git/static/css/main.5a0a8d69.chunk.css",
+    "main.js": "/react-app-p.git/static/js/main.cc00bbdc.chunk.js",
+    "main.js.map": "/react-app-p.git/static/js/main.cc00bbdc.chunk.js.map",
+    "runtime-main.js": "/react-app-p.git/static/js/runtime-main.743bf3ab.js",
+    "runtime-main.js.map": "/react-app-p.git/static/js/runtime-main.743bf3ab.js.map",
+    "static/js/2.bd4015a2.chunk.js": "/react-app-p.git/static/js/2.bd4015a2.chunk.js",
+    "static/js/2.bd4015a2.chunk.js.map": "/react-app-p.git/static/js/2.bd4015a2.chunk.js.map",
+    "index.html": "/react-app-p.git/index.html",
+    "static/css/main.5a0a8d69.chunk.css.map": "/react-app-p.git/static/css/main.5a0a8d69.chunk.css.map",
+    "static/js/2.bd4015a2.chunk.js.LICENSE.txt": "/react-app-p.git/static/js/2.bd4015a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.743bf3ab.js",
+    "static/js/2.bd4015a2.chunk.js",
+    "static/css/main.5a0a8d69.chunk.css",
+    "static/js/main.cc00bbdc.chunk.js"
+  ]
+}
